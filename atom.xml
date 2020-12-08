@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://verbo2009.github.io</id>
-    <title>小浪花</title>
-    <updated>2020-12-08T03:34:40.359Z</updated>
+    <title>创新者的橙子</title>
+    <updated>2020-12-08T07:43:11.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://verbo2009.github.io"/>
     <link rel="self" href="https://verbo2009.github.io/atom.xml"/>
-    <subtitle>年轻人，你会网上冲浪吗？</subtitle>
+    <subtitle>欢迎和我一起阅读每周精选的优质内容，一些深度好文，有意思的观点，资讯，视频，播客，图片等等</subtitle>
     <logo>https://verbo2009.github.io/images/avatar.png</logo>
     <icon>https://verbo2009.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小浪花</rights>
+    <rights>All rights reserved 2020, 创新者的橙子</rights>
     <entry>
-        <title type="html"><![CDATA[每周阅读纪要No.002]]></title>
+        <title type="html"><![CDATA[每周阅读清单No.002]]></title>
         <id>https://verbo2009.github.io/post/pKcIlnb3B/</id>
         <link href="https://verbo2009.github.io/post/pKcIlnb3B/">
         </link>
-        <updated>2020-12-07T12:17:42.000Z</updated>
+        <updated>2020-12-11T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周五下午发布，主理人@文波，欢迎关注公众号小浪花，回复“小浪花”加入读者群</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周五下午发布，主理人@文波，欢迎关注公众号小浪花，回复“小浪花”加入读者群</p>
 <!-- more -->
-<p>asads</p>
+<h4 id="值得一看的文章">🍞值得一看的文章</h4>
+<h3 id="1品牌出海上一个七年-七年前的12月9日-我的出海入行"><a href="https://mp.weixin.qq.com/s/i1gZCBlw22T9_B-9B9Fleg">1.《品牌出海上一个七年》 七年前的12月9日 我的出海入行</a></h3>
+<p><em>这是我非常喜欢的一个公众号，期待作者接下来的出海系列文章</em></p>
+<h3 id="22020年20个词"><a href="https://mp.weixin.qq.com/s/p7w4OhnCyv2LD-4R_vhH2g">2.2020年，20个词</a></h3>
+<p><em>《时代周刊》近日将2020年评为“史上最差的一年”。在这艰难的一年里，全人类集体面对了一场世界范围内的流行病，也应对了接连发生的重大事件，一年过出了五年的密度。</em><br>
+<img src="https://verbo2009.github.io/post-images/1607409700137.gif" alt="" loading="lazy"></p>
+<h3 id="3社群的未来是协作-关于社群-社区-全真互联网的思考"><a href="https://mp.weixin.qq.com/s/X98AeqjVB6LCVkGl9VK4vQ">3.社群的未来是协作 - 关于社群、社区、全真互联网的思考</a></h3>
+<p>最近开始做群组功能，以前虽然考虑过，群组的理想情况很美好，但是总觉得其中变量很多，小群太分散，大群人太多，用户需求也是模糊的，也就没继续下去。但是前段时间整理了内测反馈之后思考了一下，觉得解决的方式在于社群，而社群只抓一个核心的话就是协作。从这个角度出发，很多形态可以有新的角度。所以整理一下自己的思考记录下来，大概路径会是：<br>
+<strong>社群key在于协作 -&gt; 定义长久的社群 -&gt; 把协作拆更细 -&gt; 全真互联里的未来社群</strong><br>
+<img src="https://verbo2009.github.io/post-images/1607409549514.png" alt="" loading="lazy"></p>
+<h3 id="4隐秘的合流相向而行的数据服务与咨询"><a href="https://mp.weixin.qq.com/s/9mAaRg0ubHvdIEyt6z0M9w">4.隐秘的合流：相向而行的数据服务与咨询</a></h3>
+<p><em>企业数字化转型和利用数据指导决策的意愿很强烈，但数据底子薄、数据意识差的问题一直很严重。大部分的企业用户尤其传统企业缺乏数据工具的运营能力。这种市场现状，让很多从技术侧、产品侧生长出来的数据服务公司一度无从下手，最终一致选择扩充咨询团队和能力，将原有的业务模式从单一的“产品”升级为“咨询+产品+服务”。</em></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[每周阅读纪要No.001]]></title>
+        <title type="html"><![CDATA[每周阅读清单No.001]]></title>
         <id>https://verbo2009.github.io/post/hao-qi-zhe-zhou-kan-di-1-qi/</id>
         <link href="https://verbo2009.github.io/post/hao-qi-zhe-zhou-kan-di-1-qi/">
         </link>
