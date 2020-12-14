@@ -1,68 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://verbo2009.github.io</id>
-    <title>红糖可乐</title>
-    <updated>2020-12-14T08:45:59.894Z</updated>
+    <title>关键阅读</title>
+    <updated>2020-12-14T12:05:55.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://verbo2009.github.io"/>
     <link rel="self" href="https://verbo2009.github.io/atom.xml"/>
     <subtitle>欢迎和我一起阅读每周精选的优质内容，一些深度好文，有意思的观点，资讯，视频，播客，图片等等</subtitle>
     <logo>https://verbo2009.github.io/images/avatar.png</logo>
     <icon>https://verbo2009.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 红糖可乐</rights>
+    <rights>All rights reserved 2020, 关键阅读</rights>
     <entry>
         <title type="html"><![CDATA[每周阅读No.003丨关于播客]]></title>
         <id>https://verbo2009.github.io/post/OI6tqHUHN/</id>
         <link href="https://verbo2009.github.io/post/OI6tqHUHN/">
         </link>
         <updated>2020-12-14T02:52:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 <!-- more -->
 <h4 id="关于播客"><mark>🎤关于播客</mark></h4>
-<h3 id="1播客们的2021-从路边摊到巨头盘中餐">1.<a href="https://www.huxiu.com/article/399586.html">播客们的2021 : 从“路边摊”到巨头“盘中餐”</a></h3>
+<h2 id="1播客们的2021-从路边摊到巨头盘中餐">1.<a href="https://www.huxiu.com/article/399586.html">播客们的2021 : 从“路边摊”到巨头“盘中餐”</a></h2>
 <p>今年以来几乎各大互联网巨头都已经做出卡位的姿态。腾讯音乐上半年发布了长音频产品“酷我畅听”。随后，字节跳动也上线了同类型产品“番茄畅听”，紧随其后的，则是快手几乎是一比一高仿小宇宙的播客客户端“皮艇”。网易云音乐也在上一版更新中为播客设置了独立入口，再来就是最新的微信听书独立客户端。</p>
-<h3 id="2中文播客正在蓬勃生长">2.<a href="https://mp.weixin.qq.com/s/fY9_gSb_Q5g31KYfteIX2A">中文播客，正在蓬勃生长</a></h3>
+<h2 id="2中文播客正在蓬勃生长">2.<a href="https://mp.weixin.qq.com/s/fY9_gSb_Q5g31KYfteIX2A">中文播客，正在蓬勃生长</a></h2>
 <p>2020年以来，内容行业整体艰难，但中文播客界的繁荣想必是同时超出了说的人和听的人之预期。平台、节目和各种商业化尝试都越来越多。第一财经第一次报道这个领域，是2019年5月间发布的<a href="https://mp.weixin.qq.com/s/ETUJBB-IgdNo3MS22aqWgw">《中文播客的进化之路》</a></p>
-<h3 id="3在视觉主导的世界里找寻播客的价值">3.<a href="https://mp.weixin.qq.com/s/N1fAHdNmajkncpu9fjF04w">在视觉主导的世界里找寻播客的价值</a></h3>
+<h2 id="3在视觉主导的世界里找寻播客的价值">3.<a href="https://mp.weixin.qq.com/s/N1fAHdNmajkncpu9fjF04w">在视觉主导的世界里找寻播客的价值</a></h2>
 <p>在过去的 10 年里，播客稳步发展，从一个通过互联网分发文件的小众音频博客社区，到现在三分之一的美国人每月收听的巨大市场，这背后的原因绝对值得仔细思考。</p>
-<h3 id="4刘飞在做三五环后的分享做播客后的一些小体会">4.刘飞在做《三五环》后的分享：<a href="https://mp.weixin.qq.com/s/5Zln-pD87cZmg2BdT4Spqg">做播客后的一些小体会</a></h3>
+<h2 id="4三五环主播的分享做播客后的一些小体会">4.《三五环》主播的分享：<a href="https://mp.weixin.qq.com/s/5Zln-pD87cZmg2BdT4Spqg">做播客后的一些小体会</a></h2>
 <p>做播客的初衷很简单，大约有两点：其一，日常会跟身边许多做不同事情的朋友取经。在聊天过程中他们的观察和思考对我启发很大，是值得分享出去和留存下来的，都是有价值的资料。其二，我忙起来后，需要有个更低成本生产内容的方式。写文章的边际成本其实在提升，因为对文章质量的要求在变高（不想再写简单的产品经理入门了），而自己的积累沉淀不足以支撑长期的输出，那邀请嘉宾来录音就是个讨巧的方法。</p>
-<h3 id="5春天已到播客的风为什么吹不起来">5.<a href="https://mp.weixin.qq.com/s/qEkLh55y_B03O4rOPHYo6A">春天已到，播客的风为什么吹不起来</a></h3>
+<h2 id="5春天已到播客的风为什么吹不起来">5.<a href="https://mp.weixin.qq.com/s/qEkLh55y_B03O4rOPHYo6A">春天已到，播客的风为什么吹不起来</a></h2>
 <p>行业网站ListenNotes数据显示，中国在今年11月初已有近1.5万档播客节目，而在2020年4月底，这一数字还只有1万档出头。小宇宙APP上超过1000人订阅的播客节目中，有97个是今年新诞生的。</p>
 <h4 id="本周优质内容推荐"><mark>🐣本周优质内容推荐</mark></h4>
-<h3 id="社交赛道人类进化螺旋的一个螺帽"><a href="https://mp.weixin.qq.com/s/JJjnmlylyUPrHR5lUrnT5A">社交赛道，人类进化螺旋的一个螺帽</a></h3>
-<p>艾媒咨询数据显示，2015年到2020年国内陌生人社交用户规模持续增长，预计今年将增至6.48亿人次。</p>
-<h3 id="不限定人类那些发生在-2020-年美好的事"><a href="https://mp.weixin.qq.com/s/9A0l9YWpw-4YWveMAbSR-Q">不限定人类，那些发生在 2020 年美好的事</a></h3>
+<h2 id="1社交赛道人类进化螺旋的一个螺帽">1.<a href="https://mp.weixin.qq.com/s/JJjnmlylyUPrHR5lUrnT5A">社交赛道，人类进化螺旋的一个螺帽</a></h2>
+<p>交软件上弥漫的展示欲与倾诉欲，为日活做着源源不断的贡献，除了大家常说的孤独使然，或人口结构失衡的原因，其实还有很多源头。</p>
+<h2 id="2未来呼啸而来指数型技术如何重塑我们的明天">2.<a href="https://mp.weixin.qq.com/s/JZAsWFGMTtdS6sym8Old3w">未来呼啸而来：指数型技术如何重塑我们的明天</a></h2>
+<p>相似主题还有一篇胡泳老师的文章可以扫一下，<a href="https://mp.weixin.qq.com/s/gswtWBNylb7p30HRAKyhzw">21世纪的科技巨变，是时候开始认真考虑我们的未来了</a></p>
+<h2 id="3谁在制造打工人">3.<a href="https://mp.weixin.qq.com/s/nybi1X99XusnsPEwRro9lg">谁在制造打工人？</a></h2>
+<p>所谓的“打工人”，不过是在收入增长难以匹配资产价格涨幅之下，工薪阶层的一种无力自嘲罢了。</p>
+<h2 id="4作为职业的爱好分析行业规模的思路很有参考价值">4.<a href="https://yufree.cn/cn/2020/07/13/hobby-as-career/">作为职业的爱好（分析行业规模的思路很有参考价值）</a></h2>
+<p>越来越多的亚文化群体给现代生活提供了更多的消遣维度，维度高了自然就出现了维度诅咒：单人是无法感知到所有爱好全景的，那么有没有方法去估计现代社会对于特定爱好形成一个职业的概率呢？</p>
+<h2 id="5今天是什么让我们为赛博朋克而疯狂">5.<a href="https://mp.weixin.qq.com/s/K1zKVAtCqwv6gNh9ZlZVag">今天，是什么让我们为“赛博朋克”而疯狂？</a></h2>
+<p>一文看懂赛博朋克文化与它今天的演化。</p>
+<h2 id="6探索与邂逅我的2020阅读书单">6.<a href="https://mp.weixin.qq.com/s/qZoOop0YUb9eAyeIfyWebw">探索与邂逅—我的2020阅读书单</a></h2>
+<p>马伯庸的2020阅读书单质量很高，照单全收都可以。</p>
+<h2 id="7网易首支ai生成歌曲醒来">7.<a href="https://c.m.163.com/news/a/FTNHV1K100097U7R.html?spss=adap_pc&amp;referFrom=&amp;spssid=c27c996d1fa901fdd507c96b75f1109c&amp;spsw=7&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article">网易首支AI生成歌曲《醒来》</a></h2>
+<p>由网易伏羲、网易雷火音频部提供作词、编曲、演唱的全链路AI技术支持的歌曲《醒来》，挺好听~</p>
+<h2 id="8不限定人类那些发生在-2020-年美好的事">8.<a href="https://mp.weixin.qq.com/s/9A0l9YWpw-4YWveMAbSR-Q">不限定人类，那些发生在 2020 年美好的事</a></h2>
 <p>2020 并非完全灰暗的一年<br>
 也有许多美好的事在世界各个角落发生<br>
 悲伤很多 无奈很多<br>
 善良也很多 爱很多<br>
 要记得这件事！</p>
-<h3 id="未来呼啸而来指数型技术如何重塑我们的明天"><a href="https://mp.weixin.qq.com/s/JZAsWFGMTtdS6sym8Old3w">未来呼啸而来：指数型技术如何重塑我们的明天</a></h3>
-<p>相似主题还有一篇胡泳老师的文章可以扫一下，<a href="https://mp.weixin.qq.com/s/gswtWBNylb7p30HRAKyhzw">21世纪的科技巨变，是时候开始认真考虑我们的未来了</a></p>
-<h3 id="网易首支ai生成歌曲醒来"><a href="https://c.m.163.com/news/a/FTNHV1K100097U7R.html?spss=adap_pc&amp;referFrom=&amp;spssid=c27c996d1fa901fdd507c96b75f1109c&amp;spsw=7&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article&amp;isFromH5Share=article">网易首支AI生成歌曲《醒来》</a></h3>
-<p>由网易伏羲、网易雷火音频部提供作词、编曲、演唱的全链路AI技术支持的歌曲《醒来》，挺好听~</p>
-<h3 id="谁在制造打工人"><a href="https://mp.weixin.qq.com/s/nybi1X99XusnsPEwRro9lg">谁在制造打工人？</a></h3>
-<p>所谓的“打工人”，不过是在收入增长难以匹配资产价格涨幅之下，工薪阶层的一种无力自嘲罢了。</p>
-<h3 id="作为职业的爱好分析行业规模的思路很有参考价值"><a href="https://yufree.cn/cn/2020/07/13/hobby-as-career/">作为职业的爱好（分析行业规模的思路很有参考价值）</a></h3>
-<p>越来越多的亚文化群体给现代生活提供了更多的消遣维度，维度高了自然就出现了维度诅咒：单人是无法感知到所有爱好全景的，那么有没有方法去估计现代社会对于特定爱好形成一个职业的概率呢？</p>
-<h3 id="今天是什么让我们为赛博朋克而疯狂"><a href="https://mp.weixin.qq.com/s/K1zKVAtCqwv6gNh9ZlZVag">今天，是什么让我们为“赛博朋克”而疯狂？</a></h3>
-<p>一文看懂赛博朋克文化与它今天的演化。</p>
-<h3 id="探索与邂逅我的2020阅读书单"><a href="https://mp.weixin.qq.com/s/qZoOop0YUb9eAyeIfyWebw">探索与邂逅—我的2020阅读书单</a></h3>
-<p>马伯庸的2020阅读书单质量很高，照单全收都可以。</p>
-<h3 id="谭维维新歌小娟化名tme-live现场版"><a href="https://www.bilibili.com/video/BV1NA411s7YD/?spm_id_from=333.788.recommend_more_video.0">【谭维维】新歌《小娟（化名)》TME live现场版</a></h3>
-<p>真的很有力量，听着会起鸡皮疙瘩</p>
-<h3 id="pockets-best-of-2020-pockets-best-of-2020-英文"><a href="https://getpocket.com/explore/best-of-2020">Pocket’s Best of 2020 Pocket’s Best of 2020 （英文）</a></h3>
+<h2 id="9互联网行业的历史性时刻一个时代的结束">9.<a href="https://mp.weixin.qq.com/s/6P7vXXx00egT-UHSU6TMVg">互联网行业的历史性时刻：一个时代的结束</a></h2>
+<p>观点内容，仅做思考</p>
+<h2 id="10pockets-best-of-2020-pockets-best-of-2020-英文">10.<a href="https://getpocket.com/explore/best-of-2020">Pocket’s Best of 2020 Pocket’s Best of 2020 （英文）</a></h2>
 <p>Pocket 发布了今年的 Best of 2020 的文章</p>
 <h4 id="翻到或重读的旧文"><mark>📜翻到或重读的旧文</mark></h4>
-<h3 id="消失的日本大亨"><a href="https://mp.weixin.qq.com/s/2Sqdsl3oushG4YUfdChMCg">消失的日本大亨</a></h3>
+<h2 id="消失的日本大亨"><a href="https://mp.weixin.qq.com/s/2Sqdsl3oushG4YUfdChMCg">消失的日本大亨</a></h2>
 <p>2006年开年，日本最高法院规定，所有消费金融公司年利率必须在20%以内，且贷款额不得超过借贷者年收入三分之一。同时，规定还要求，以前超收的利息，要退还给借贷者，仅此一项，武富士便要向约200万人，退还240亿美元。</p>
-<h3 id="如何在几天时间内快速理解一个陌生行业"><a href="https://mp.weixin.qq.com/s/JXJ1wTg3MccJw6UHP0M5TQ">如何在几天时间内快速理解一个陌生行业？</a></h3>
+<h2 id="如何在几天时间内快速理解一个陌生行业"><a href="https://mp.weixin.qq.com/s/JXJ1wTg3MccJw6UHP0M5TQ">如何在几天时间内快速理解一个陌生行业？</a></h2>
 <p>越来越多的工作需要我们能在很短的时间内掌握一门新的学科。学习陌生行业的新知识，不可能也没有必要像专业人士那样学习，最常用的方法，以前叫“触类旁通”，现在叫“知识迁移”，即把陌生领域的知识跟你之前所熟悉行业的知识框架进行比较，找到相同的因素，比如成份、知识结构、或者同样的分析过程，以帮助学习。</p>
-<h3 id="互联网是人类历史的一段弯路吗"><a href="https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA">互联网是人类历史的一段弯路吗？</a></h3>
+<h2 id="互联网是人类历史的一段弯路吗"><a href="https://mp.weixin.qq.com/s/V5Dk4gpzpdb-zsfurp9ZiA">互联网是人类历史的一段弯路吗？</a></h2>
 <p>本文大约 40000 字，写成于2019年12月，原本预计 2020 年 1 月发表，疫情爆发后一直感觉需要加笔。但时至 2020 年 4 月，新冠疫带来的变化似乎并未影响本文叙事，新加内容也仅起到案例更新作用，遂以去年完稿的版本发布。新版好像已经出版了。</p>
+<h2 id="拆解蚂蚁盛宴那些戴面具的狂欢者"><a href="https://app.myzaker.com/news/article.php?pk=5f9f81e08e9f09306f027889">拆解蚂蚁盛宴：那些戴面具的狂欢者</a></h2>
+<p>文中提到了资本四大阵营：<br>
+中金：发起人是时任CCB行长的王QS，他提拔了朱RJ海外归来的儿子之后进了中央。<br>
+博裕：创始人是美国归来的江ZM孙子。<br>
+春华：创始人看似在野，也是智囊团成员。与之关系密切的华融前任赖XM刚刚落马，据说背后有曾QH。<br>
+云峰：马云为代表的企业家们。</p>
+<h2 id="兽圈-谷圈-笔圈00后都在玩什么"><a href="https://mp.weixin.qq.com/s/1i7JJ5PBovb6h3B_N94eNg">兽圈、谷圈、笔圈……00后都在玩什么？</a></h2>
+<figure data-type="image" tabindex="1"><img src="https://verbo2009.github.io/post-images/1607947068047.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -71,9 +79,9 @@
         <link href="https://verbo2009.github.io/post/pKcIlnb3B/">
         </link>
         <updated>2020-12-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 <!-- more -->
 <h4 id="关于社区团购"><mark>🍞关于社区团购</mark></h4>
 <h3 id="社区团购的一些基础认知"><a href="https://mp.weixin.qq.com/s/uCm9TF3S39fOG6S4ESgdwA">社区团购的一些基础认知</a></h3>
@@ -141,9 +149,9 @@
         <link href="https://verbo2009.github.io/post/hao-qi-zhe-zhou-kan-di-1-qi/">
         </link>
         <updated>2020-12-01T06:06:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <summary type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，，主理人@文波，如有好的内容想推荐欢迎加微信wen2008bo，后续看是否可以建个优质内容分享群</p>
+        <content type="html"><![CDATA[<p>收录本周看过的各种优质内容，每周六发布，主理人@文波，如有好内容推荐欢迎加微信wen2008bo，后续看可以考虑拉个优质内容分享群</p>
 <!-- more -->
 <h4 id="工具研究"><mark>🖥工具研究</mark></h4>
 <h3 id="roam-research-report理念与功能-别加入-roamcult">Roam Research Report：<a href="https://sspai.com/post/60588">理念与功能</a>、<a href="https://sspai.com/post/61010">别加入 roamcult</a></h3>
