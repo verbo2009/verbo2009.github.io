@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://verbo2009.github.io</id>
     <title>我在看什么</title>
-    <updated>2021-03-21T01:35:12.493Z</updated>
+    <updated>2021-03-27T14:46:17.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://verbo2009.github.io"/>
     <link rel="self" href="https://verbo2009.github.io/atom.xml"/>
@@ -10,6 +10,67 @@
     <logo>https://verbo2009.github.io/images/avatar.png</logo>
     <icon>https://verbo2009.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我在看什么</rights>
+    <entry>
+        <title type="html"><![CDATA[刻意周刊No.18丨无代码&低代码]]></title>
+        <id>https://verbo2009.github.io/post/r0BlQPnu-/</id>
+        <link href="https://verbo2009.github.io/post/r0BlQPnu-/">
+        </link>
+        <updated>2021-03-27T14:50:03.000Z</updated>
+        <content type="html"><![CDATA[<p>我們讀的越少，我們讀的東西越有害。 The less we read, the more harmful it is what we read.——Miguel de Unamuno（西班牙著名作家、哲學家）</p>
+<h4 id="本周专题"><mark>‍ 🖥 本周专题</mark></h4>
+<h3 id="无代码的时代真的来了吗系列一前世今生"><a href="https://mp.weixin.qq.com/s/GgMYsfvSCTKMGPqsBMJZwg">无代码的时代真的来了吗？系列一：前世今生</a></h3>
+<p>微软称无代码是它的“Next Big Thing”。谷歌说无代码是下一代的变革和提升。延展阅读：<br>
+<a href="https://mp.weixin.qq.com/s/t2C_-62hV4jA2gCfAgB56w">&gt;&gt; 超45%增速、阿里腾讯押注，低/无代码迎来爆发</a><br>
+<a href="https://mp.weixin.qq.com/s/ang1kOiJyFuUOvnxpL-xKQ">&gt;&gt; 低代码、无代码？深度解读硅谷新趋势(上)</a><br>
+<a href="https://mp.weixin.qq.com/s/ySaWMM6pfcd6BI84613wmQ">&gt;&gt; 人人都可做游戏，无代码化将带来游戏开发革命？</a><br>
+<a href="https://mp.weixin.qq.com/s/8NoSAIK2cFCWViI7P7b0ug">&gt;&gt; 无代码开发，是产品管理的未来</a><br>
+<a href="https://mp.weixin.qq.com/s/Zhmh6mzCyxJlOvmuDMBSfw">&gt;&gt; “无代码”与我们的距离</a></p>
+<h4 id="本周优质内容推荐"><mark>👨‍💻 本周优质内容推荐</mark></h4>
+<h3 id="1-植物肉元年发生了什么">1、<a href="https://mp.weixin.qq.com/s/tMyO-_ou6jPGgwFAdraBCA">植物肉元年，发生了什么？</a></h3>
+<p>中国植物肉品牌「星期零」和 Bloomberg商业周刊联合发布了《2021 中国植物肉行业洞察白皮书》，对刚刚过去的 2020 年进行了一次植物肉行业较为全面的梳理，重点整理了植物肉的必要性、中国市场的竞争格局、消费者洞察三大部分。<a href="https://www.jianguoyun.com/p/DWmGObIQoIqXCRjK7-kD">点击查看完整报告《2021 中国植物肉行业洞察白皮书》</a></p>
+<h3 id="2-日本折扣业态的最优解解析唐吉诃德上">2、<a href="https://mp.weixin.qq.com/s/mk0B8_XsrXwmGQsbyperyA">日本折扣业态的最优解——解析唐吉诃德（上）</a></h3>
+<p>本文从日本零售宏观角度切入到折扣店行业的发展，尝试解码日本折扣之王的致胜之道。<br>
+上半部分：1. 什么样的结构性环境变化造就了唐吉诃德？2. 同时代的折扣店玩家们为何未能成功？<br>
+下半部分（待更新）：3. 唐吉诃德的特殊能力和背后的逻辑是什么？4. 唐吉诃德内部如何管理店铺和采购？5. 总结和展望</p>
+<h3 id="3-云计算失败往事">3、<a href="https://mp.weixin.qq.com/s/Wix2OS_DJ1Q_3jpeyqKd_A">云计算失败往事</a></h3>
+<p>云计算从来不是科技爱好者的凭空想象，在十年之内，这个产业从零到数千亿美元，每一笔账单都来自产业的真实需求。延展阅读：<br>
+<a href="https://mp.weixin.qq.com/s/_VDIhneUXajkKOIKWjkShg">&gt;&gt; 这段涉及百度的AI秘史，说明AI注定是一场中美的&quot;新军备竞赛&quot;</a><br>
+<a href="https://mp.weixin.qq.com/s/xwK1chE24gBRnWOagB7n_Q">&gt;&gt; WPS的不可思议成长史：这些不为人知的有趣细节，你可能从来没听过</a><br>
+<a href="https://mp.weixin.qq.com/s/Bc-QGOAZ9lakBA-gYAPD9g">&gt;&gt; 美国半导体简史：痴迷「降本」如何让美失去前沿优势？</a></p>
+<h3 id="4-to-b巨头atlassian的5个非典型崛起策略">4、<a href="https://mp.weixin.qq.com/s/3lqR83OVydyu9Tiw3o3saQ">To B巨头Atlassian的5个非典型崛起策略</a></h3>
+<p>仔细观察Atlassian的规模化过程，你会发现它还有很多没有被大众所知的特别做法。比如，公司在澳大利亚成立——远离硅谷科技中心、双CEO架构、成立第二年就发布第二个产品。</p>
+<h3 id="5-拆解小宇宙app从诞生到演化深度复盘">5、<a href="https://mp.weixin.qq.com/s/YNE4r5qiuX8f-p7wvGp0JA">拆解小宇宙APP：从诞生到演化，深度复盘</a></h3>
+<p>看完本文，大抵能了解播客这一市场，以及小宇宙如何突然崛起、崛起背后的逻辑，更多播客相关内容可查看：<a href="http://wenboblog.com/post/OI6tqHUHN/">刻意周刊No.03丨关于播客</a></p>
+<h3 id="6-jk制服谈上在日的演变与中国本土的产业化丨海外文化溯源系列">6、<a href="https://mp.weixin.qq.com/s/WnHBIcHoD_AuDFu_l1lasg">JK制服谈（上）：在日的演变与中国本土的产业化丨海外文化溯源系列</a></h3>
+<p>随着90后逐渐成为有消费力的一代，JK制服在文化上逐渐有了自己的圈层，消费上有了购买力。在国内，JK制服与Lolita、汉服并称为“三坑”、“破产三姐妹”。</p>
+<h3 id="7-这十年买商铺的人亏惨了未来十年的住宅呢">7、<a href="https://mp.weixin.qq.com/s/8cTHuBBlf1qb2fiJ7t5jig">这十年，买商铺的人亏惨了，未来十年的住宅呢？</a></h3>
+<p>强烈推荐阅读，虽然文章很长且稍有点啰嗦，但应该解释了很多人的困惑：</p>
+<blockquote>
+<p>1994~1998年中国在酝酿全面住宅改革，试图终结福利分房，彻底开启住宅市场化时代。那么对住宅另眼相待，在1994年取消个人所得税和1997年取消土地增值税，就是理所当然的一件事。这些税种的取消和优惠，让二手住宅的交易成本，被降低到了最低1%左右，还没有中介费高，这简直令人发指。也正因为如此，住宅成了一个极好的投资炒作品种，交易非常便捷。</p>
+</blockquote>
+<h3 id="8-人口红利与人口陷阱内卷的经济学解释">8、<a href="https://mp.weixin.qq.com/s/VsD-3rpKxfg60TXHTHrZaQ">人口红利与人口陷阱：内卷的经济学解释</a></h3>
+<p>一直对人口问题挺感兴趣，之前也有推荐过相关内容，延展阅读：<a href="https://mp.weixin.qq.com/s/P_wEyUNQ9ddCYsIZ6iHRFA">从“闯关东”到“飞海南”：百余年来的东北人口变迁史</a></p>
+<h3 id="9-慢慢暴富巴菲特致股东信1957-2021年全集">9、<a href="https://mp.weixin.qq.com/s/bsiSrcD-VbMmK7Zs4f31tQ">慢慢暴富：巴菲特致股东信1957-2021年全集</a></h3>
+<p>一夜暴富，和慢慢暴富，你选择哪一个？巴菲特已经90岁了，未必有机会再次证明“价值投资”的魔力，他也不必。而你还年轻。延展阅读：<br>
+<a href="https://mp.weixin.qq.com/s/0tYE0hjc5Q0GJS4YYUmg9A">&gt;&gt; 前浪后传：中国富豪大爷图鉴</a></p>
+<h3 id="10-我的思考-关于信任">10、<a href="https://mp.weixin.qq.com/s/eZPhjKMW6HKen5MV-HPtAA">我的思考 – 关于信任</a></h3>
+<p>很有意思的公众号，4个相似背景：清华，留学，北京，互联网创业和投资的女生所做的一些分享记录，有时间可以再翻翻其他历史文章</p>
+<h4 id="本周书影音"><mark>🎸 本周书影音</mark></h4>
+<h3 id="读书丨棉花帝国一部资本主义全球史"><a href="https://book.douban.com/subject/30411849/">读书丨棉花帝国：一部资本主义全球史</a></h3>
+<p>这次棉花事件，我相信大部分人了解的信息都是不充分的，所以那些随意发表观点表达立场的人可能都是情绪化而不可信的，前段时间正好收藏了本书的电子版还没来得及阅读，没时间看书的，可以看看这篇文章：<a href="https://mp.weixin.qq.com/s/Wg1EddKH0qy9uMgTjX4rdQ">关于棉花议题，这里有几个“烫知识” </a></p>
+<h3 id="电影丨喜丧2015"><a href="https://movie.douban.com/subject/26671361/">电影丨喜丧（2015）</a></h3>
+<p>有点沉重的电影，年轻人不建议看，想起了之前看过的NHK纪录片：<a href="https://www.bilibili.com/video/av23232157/">激流中国-青岛养老院的故事</a>，虽然整体经济水平相比有了大的提升，但随着老龄化日益加剧，养老问题依然是一个严峻而紧迫的问题</p>
+<h3 id="游戏丨warpath战火勋章"><a href="https://weibo.com/tv/show/1034:4615443596640264?from=old_pc_videoshow">游戏丨《Warpath》（战火勋章）</a></h3>
+<p>莉莉丝的军事SLG新游戏《Warpath》（战火勋章）在海外开始公测了，官方公布了一个长达5分钟的微电影真人短片，虽没体验游戏，但就这短片来说是用心的</p>
+<h3 id="视频丨立交桥人类工程中的几何美学"><a href="https://weibo.com/tv/show/1034:4526308865015837?from=old_pc_videoshow">视频丨立交桥：人类工程中的几何美学</a></h3>
+<p>星球研究所出品，截至2018年，我国共有立交桥5343座。我们为什么要建这么多立交桥？它们都是如何建成的？你在立交桥上绕晕过吗？</p>
+<h3 id="动画丨dota龙之血"><a href="https://movie.douban.com/subject/35363794/">动画丨DOTA：龙之血</a></h3>
+<p>以DOTA2游戏世界改编的奇幻剧，游戏玩家应该会更有感觉，8集短剧，killtime还不错，4星推荐</p>
+<p><img src="https://verbo2009.github.io/post-images/1616855681245.jpeg" alt="" loading="lazy"><br>
+<br/></p>
+<p><font color="#bbbbbb">注：如喜欢本期内容，请分享给身边的朋友，这是我坚持更新的最大动力；如需要周刊中提到的书影音资源，请联系我；如有优质内容推荐或内容方面的建议，请联系我；如想认识我，交个朋友，请联系我。wx：wen2008bo</font></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刻意周刊No.17丨关于碳中和]]></title>
         <id>https://verbo2009.github.io/post/2wIXji1Wy/</id>
@@ -27,7 +88,8 @@
 <a href="https://www.zhihu.com/question/442922646/answer/1729264160">&gt;&gt; 全球变暖是西方发达国家的骗局吗？</a><br>
 <a href="https://zhuanlan.zhihu.com/p/350483158">&gt;&gt; 马斯克一亿美元设立碳捕获大赛，康奈尔大学博士深度解析碳中和</a><br>
 <a href="https://mp.weixin.qq.com/s/1XYdk9hPPJT4XL6Uadyuzw">&gt;&gt; “碳中和”背后的中国能源大三角</a><br>
-<a href="https://mp.weixin.qq.com/s/fPzFZqlb7E23hWRP5xbjUA">&gt;&gt; 中国青年气候意识与行为调研报告2020</a></p>
+<a href="https://mp.weixin.qq.com/s/fPzFZqlb7E23hWRP5xbjUA">&gt;&gt; 中国青年气候意识与行为调研报告2020</a><br>
+<a href="https://mp.weixin.qq.com/s/4IflQHo7NLIOg6dvzdFqcw">&gt;&gt; 零碳排放目标更像是一场零和游戏</a></p>
 <h4 id="本周优质内容推荐"><mark>👨‍💻 本周优质内容推荐</mark></h4>
 <h3 id="1-推荐时代我们需要什么样的网络内容社区">1、<a href="https://mp.weixin.qq.com/s/mGHjEok92-Bveqj5FkGUiw">推荐时代，我们需要什么样的网络内容社区？</a></h3>
 <p>更新这份周刊的过程中，也一直在思考内容社区相关问题，有一些零碎想法，对这块感兴趣的朋友欢迎加微信交流。<br>
@@ -46,7 +108,8 @@
 <p>作者试着分析了埃隆·马斯克的人格画像：<br>
 a. 一个无法维持长期关系的「自我实现者」<br>
 b. 一个致力于改变世界的理想主义「偏执狂」<br>
-c. 一个只能通过追逐未来去「逃避过去」的人。</p>
+c. 一个只能通过追逐未来去「逃避过去」的人。<br>
+<a href="https://mp.weixin.qq.com/s/dO0pqggZNICmnlGMoHctNA">&gt;&gt; 马斯克的至暗时刻</a></p>
 <h3 id="7-中国山寨现象调查">7、<a href="https://mp.weixin.qq.com/s/J1z7FQmVqGuyuA0eI1lvdw">中国山寨现象调查</a></h3>
 <p>不少学者认为，在一个转型中的国家，“山寨”在本质上也是一种带有反托拉斯色彩的“野蛮生长”的产业现象，是检验文化心理的独特视角。但如何从抄袭、模仿的低端产业模式，转轨至创新的良性发展轨道，还有长远的路要走。延展阅读：<br>
 <a href="https://mp.weixin.qq.com/s/Kl7NrEwuzu3qgS_85Oo_-w">&gt;&gt; 玩具枪市场调查：致富的和危险的</a></p>
@@ -167,7 +230,7 @@ c. 一个只能通过追逐未来去「逃避过去」的人。</p>
 <a href="https://mp.weixin.qq.com/s/ZIjHEeNJXyQPFQLt3binAA">&gt;&gt; 郝景芳丨薛定谔的世界（7）：你的灵魂想永生吗？</a></p>
 <h4 id="本周优质内容推荐"><mark>👨‍💻 本周优质内容推荐</mark></h4>
 <h3 id="1-网络效应指南13-种网络效应全解析带你了解巨头成功的秘密">1、<a href="https://mp.weixin.qq.com/s/0WjVH5Vjn0T4-515jG1euA">“网络效应”指南：13 种网络效应全解析，带你了解巨头成功的秘密</a></h3>
-<p>很多人都会谈网络效应，但很少人理解其背后的复杂性：比如网络效应究竟是什么，网络效应的机制是什么样的，有多少种类型，以及如何建立和维护网络效应等。本文是NFX用3年时间制作的一份网络效应地图，研究整理出5大类13种网络效应。</p>
+<p>很多人都会谈网络效应，但很少人理解其背后的复杂性：比如网络效应究竟是什么，网络效应的机制是什么样的，有多少种类型，以及如何建立和维护网络效应等。本文是NFX用3年时间制作的一份网络效应地图，研究整理出5大类13种网络效应。有时间可以再看看这篇阅读笔记：<a href="https://mp.weixin.qq.com/s/N-SZ6QWSfbdVXoCXx_eIXA">《NFX：网络效应圣经》笔记</a></p>
 <h3 id="2-2020打车软件出行现状调研报告">2、<a href="https://www.jianguoyun.com/p/De8b6H0QoIqXCRiz-uQD">2020打车软件出行现状调研报告</a></h3>
 <p>复旦大学孙金云教授研究团队的调研报告全文，因为报告指出扬招仍是各城市打车最快的首选，引发不明真相网友“热议”，可以看看孙教授的回应：<br>
 <a href="https://mp.weixin.qq.com/s/JdccFfKwIvG6d5UW9UtVTg">&gt;&gt; 关于“打车软件”，我想说的都在这里</a></p>
@@ -634,66 +697,6 @@ c. 一个只能通过追逐未来去「逃避过去」的人。</p>
 <p>非常非常棒的纪录片，永续农业的一个真实案例，对这个议题有兴趣可以继续读下这本书：<br>
 <a href="https://book.douban.com/subject/27046024/">杂食者的两难</a>或<a href="https://www.bilibili.com/read/cv7596453">这篇读书分享</a></p>
 <h3 id="音乐丨复古翻唱火遍全球的closer浓浓的50年代舞会风超带感"><a href="https://music.163.com/#/video?id=848DDF5066B0AB44E4BDB8F57404A541">音乐丨复古翻唱火遍全球的《Closer》，浓浓的50年代舞会风，超带感</a></h3>
-<p><font color="#bbbbbb">注：如喜欢本期内容，请分享给身边的朋友，这是我坚持更新的最大动力；如需要周刊中提到的书影音资源，请联系我；如有优质内容推荐或内容方面的建议，请联系我；如想认识我，交个朋友，请联系我。wx：wen2008bo</font></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刻意周刊No.08丨知乎十年]]></title>
-        <id>https://verbo2009.github.io/post/sC0eP6GmL/</id>
-        <link href="https://verbo2009.github.io/post/sC0eP6GmL/">
-        </link>
-        <updated>2021-01-15T09:30:30.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>智人这个物种独有的语言能力能够允许我们对虚拟事物进行想象，从而组织起复杂的社会，通过分工合作获得了更高的演化效率。但与此同时，这种能力也让我们的大部分个体陷入更悲惨的处境，从古代被神权和王权压迫的农民，到现在被资本主义和消费主义剥削的劳工，无不如此。每一轮革命和飞跃没有从根本上改变这个模式，反而是把这个模式的利和弊推到更极端的地步：人类的想象力越发达，每个个体面临的苦难就越深重。——《人类简史》尤瓦尔·赫拉利（Yuval Noah Harari）</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>智人这个物种独有的语言能力能够允许我们对虚拟事物进行想象，从而组织起复杂的社会，通过分工合作获得了更高的演化效率。但与此同时，这种能力也让我们的大部分个体陷入更悲惨的处境，从古代被神权和王权压迫的农民，到现在被资本主义和消费主义剥削的劳工，无不如此。每一轮革命和飞跃没有从根本上改变这个模式，反而是把这个模式的利和弊推到更极端的地步：人类的想象力越发达，每个个体面临的苦难就越深重。——《人类简史》尤瓦尔·赫拉利（Yuval Noah Harari）</p>
-</blockquote>
-<!-- more -->
-<h4 id="本周优质内容推荐"><mark>🦊本周优质内容推荐</mark></h4>
-<h3 id="2021-新知青年大会-知乎十周年周源演讲全文"><a href="https://mp.weixin.qq.com/s/x6wlLDnafH9UdrL1Rysw3Q">2021 新知青年大会 | 知乎十周年周源演讲全文</a></h3>
-<p>知乎十年，已经有100 位创作者，月收入超过 10 万元；有 1000 位头部创作者，月收入超过 1 万元。加速IPO，有人贺喜，有人遗憾：<br>
-<a href="https://mp.weixin.qq.com/s/SNW8CAHiyWIGlWdt8qnKZQ">&gt;&gt; 知乎：当这“理想国”拆了“壁垒”之后</a><br>
-<a href="https://mp.weixin.qq.com/s/D_Nef2l94uL9KCI6_Jyivg">&gt;&gt; 10岁的知乎，周源不想出局</a><br>
-<a href="https://mp.weixin.qq.com/s/XOeAHN-oK3cBc33OOD-Rog">&gt;&gt; 知乎能有什么坏心眼呢？</a><br>
-<a href="https://mp.weixin.qq.com/s/LUYH6V4JaSrP1vnSxhsJgQ">&gt;&gt; 知乎十年，内容社区的镜与灯</a><br>
-<a href="https://mp.weixin.qq.com/s/ZkXJFijG2Zjt1XlN8AwqpQ">&gt;&gt; 知乎这十年</a></p>
-<h3 id="禅与社交网络维修艺术"><a href="https://mp.weixin.qq.com/s/OWC1pV7HSlwo2YUSlmEsXw">禅与社交网络维修艺术</a></h3>
-<p>本文作者是亚马逊战略部门的首位分析师，曾任 Hulu、Flipboard 的产品负责人。他通过引入一个新的维度（社交资本）来帮助理解社交网络的变迁和当下所面临的困局，甚至在他看来，区块链、加密货币和社交网络也有内源相似性。</p>
-<h3 id="opinionated-product-是未来产品趋势"><a href="https://mp.weixin.qq.com/s/qK_adPVJtOdB6_6iOoR01A">Opinionated Product 是未来产品趋势</a></h3>
-<p>Opinionated Product 是指拥有自己明确价值观的产品，会将更好的流程和方法应用到场景中来解决用户问题。这样的产品往往会挑战传统观念和习惯。我们将其翻译为“理念性产品”。另外分享一份干货资料：<a href="https://flomo.lanzous.com/b01nwobjg">产品沉思录 2020 年精选集 PDF 版</a>（下载密码btaf）</p>
-<h3 id="任天堂的无限游戏"><a href="https://mp.weixin.qq.com/s/EiKgFyQv3bJ-gH9qJZl0ng">任天堂的「无限游戏」</a></h3>
-<p>这个号还有两篇相关文章，感兴趣的可以看看，另之前看过一个纪录片不错：<a href="https://movie.douban.com/subject/35162178/">剑指高分 High Score</a></p>
-<h3 id="品类洞察-同为东方饮食-餐桌主角日本人做豆腐比我们强在哪儿"><a href="https://mp.weixin.qq.com/s/3sjiIuJ-_sMTOvIQCHvvrA">品类洞察 │ 同为东方饮食、餐桌主角，日本人做豆腐比我们强在哪儿？</a></h3>
-<p>要把一门传承数百年、上千年的古老生意做下去，做出新时代的风范，就必须研究消费者、研究饮食潮流、研究风味趋势、研究新生代的流行语和“生活观”。对消费者用心，消费者才会对你上心！</p>
-<h3 id="次世代的中国经济下一个10年与60年"><a href="https://mp.weixin.qq.com/s/IK8Mfugj1sSv8xapd6XTEw">次世代的中国经济：下一个10年与60年</a></h3>
-<p>超级长文，关注这个方向的可以研读下</p>
-<h3 id="刘瑜这个世界缺的是温和而意志坚定的人"><a href="https://mp.weixin.qq.com/s/hPf60ILUv7vOOTZJl-6IaA">刘瑜：这个世界缺的是温和而意志坚定的人</a></h3>
-<p>人在很年轻时会觉得时间是无限的，但到了一定年龄后你就意识到，时间非常有限，比打赢所有的“战斗”更重要的，是“选择正确的战场”。</p>
-<h3 id="创业前要问的-42-个问题英文"><a href="https://www.preetamnath.com/blog/questions-to-ask-before-starting-a-business">创业前要问的 42 个问题(英文)</a></h3>
-<p>长篇深度好文！如果你正在创业或有创业想法，如果你是独立开发者，正在为自己的产品或 idea 是否可以成功而迷惑，都不妨先反复阅读与思考一下这些问题</p>
-<h3 id="盖亚假说地球是一个生命体吗"><a href="https://mp.weixin.qq.com/s/0Xo3nrujcM7WfyF1Lli3rA">盖亚假说：地球是一个生命体吗？</a></h3>
-<p>在漫长的地球生物的演化历史中，生物为了生存面临着残酷的竞争和自然选择压力。而盖亚假说却认为地球表面的生物圈层也类似于一个生物体，也在漫长的历史长河中不断演化。这一假说至今仍会引发无数争论。</p>
-<h3 id="世上有无真孔子"><a href="https://weibo.com/ttarticle/p/show?id=2309404592868906893691#_0">世上有无真孔子</a></h3>
-<p>杰出的学者，优秀的论著，一般说来是严谨自洽的，但最顶级的宗师，最重要的典籍，最权威的文本，往往就是自相矛盾甚至不知道在说啥的。取得了被推崇的地位，自相矛盾就是浑涵博大，经典越是没说清楚，解释经典才越方便与时俱进。</p>
-<h4 id="本周书影音"><mark>🎸本周书影音</mark></h4>
-<h3 id="视频丨冠名b站跨年晚会的元气森林凭什么这么火"><a href="https://www.bilibili.com/video/BV1ov41147cc">视频丨冠名B站跨年晚会的元气森林，凭什么这么火？</a></h3>
-<p>小酒很美，喜欢视频中这句总结：自由意志，在所有爆品面前，早已变成了一种表象。</p>
-<h3 id="播客丨未来人人都吃人造肉吗"><a href="https://www.xiaoyuzhoufm.com/episode/5ffd6d94ee6f1cb3d31db119?s=eyJ1IjoiNWU4MjlmMzYwYTdiZDgwOWMyZWI4MDk3In0%3D%0A">播客丨未来人人都吃人造肉吗？</a></h3>
-<p>经纬发起的播客栏目《投资内幕 Matrix&amp;Money》首期话题，对人造肉感兴趣还可以听下贝望录这期节目:<a href="https://www.xiaoyuzhoufm.com/episode/5fa1ddfd83c34e85dd288806?s=eyJ1IjoiNWU4MjlmMzYwYTdiZDgwOWMyZWI4MDk3In0%3D%0A">植物人造肉是个时髦概念，但这门生意好做吗？</a></p>
-<h3 id="书丨本周在看张大春的城邦暴力团"><a href="https://site.douban.com/110103/">书丨本周在看张大春的《城邦暴力团》</a></h3>
-<p>豆瓣某书评：《城邦暴力团》端的好看，有点太好看了，好比十万禁军教头当众操演十八般兵刃，大家除了喝彩，不免要酸酸地说他“炫技”。大陆版上下两大巨册820页，塞了一套百年史，一套民国史，一套漕帮史，一套家族史，一套个人史，另外嵌套中外咸宜的阴谋论、永远不朽的武侠梦、博大精深的国学知识、风行一时的都市传奇……</p>
-<h3 id="电影丨玫瑰岛的不可思议的历史"><a href="https://movie.douban.com/subject/34982759/?tag=%E7%83%AD%E9%97%A8&amp;from=gaia">电影丨玫瑰岛的不可思议的历史</a></h3>
-<p>四星推荐一下玫瑰岛，基于真实故事改编，披着喜剧的外衣，却有着悲伤的内里。</p>
-<h3 id="纪录片丨我的章鱼老师"><a href="https://movie.douban.com/subject/35185752/">纪录片丨《我的章鱼老师》</a></h3>
-<p>一名电影制作人与一只生活在南非海藻林中的章鱼建立了不寻常的友谊。这只动物带他一窥自己的神秘世界，而他则获益良多。</p>
-<h3 id="歌丨囍chinese-wedding"><a href="https://music.163.com/#/song/1303289043/?userid=3870562361&amp;app_version=8.0.20">歌丨囍（Chinese Wedding）</a></h3>
-<p>歌词有故事，特别是看了评论后，感觉凉飕飕的</p>
-<h3 id="短片丨我从北方寄来雪盼你南方送来沙"><a href="http://t.cn/A65vczCa?m=4592687137949853&amp;u=5867737487">短片丨我从北方寄来雪，盼你南方送来沙。</a></h3>
-<p>是爱情的样子，想起北野武的《相遇》，一首很美的情诗，点点滴滴平常话，诙谐又深情。人生若只如初见，从此再看到三明治，就觉得它是爱情的模样。<br>
-<img src="https://verbo2009.github.io/post-images/1610685427794.jpeg" alt="" loading="lazy"><br>
-<img src="https://verbo2009.github.io/post-images/1610685440918.jpeg" alt="" loading="lazy"></p>
 <p><font color="#bbbbbb">注：如喜欢本期内容，请分享给身边的朋友，这是我坚持更新的最大动力；如需要周刊中提到的书影音资源，请联系我；如有优质内容推荐或内容方面的建议，请联系我；如想认识我，交个朋友，请联系我。wx：wen2008bo</font></p>
 ]]></content>
     </entry>
